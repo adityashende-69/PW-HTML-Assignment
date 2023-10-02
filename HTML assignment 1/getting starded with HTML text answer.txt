@@ -1,0 +1,105 @@
+﻿Task 1 : write a simple program in HTML  that displays the heading “HTML Define the  
+Content and structure of your website” on the web browser?
+
+
+Answer: link https://drive.google.com/file/d/1qcEAStKRAtYM6KB9Flio8n0l_IxsVdWx/view?usp=sharing  
+
+
+
+
+Task 2 : explain the comment in HTML and provide an example of how to use comments in an HTML Document?
+
+
+Answer:  in HTML, comment serve the providing human-readable notes or explanations within the code that are not displayed in the web browser when the webpage is rendered. Comments are ignored by web browsers and used for documentation, clarification or temporarily excluding certain parts of the code without actually deleting them  they are a helpful tool for web developers and designers to understand and maintain the code, as well as for collaborating with others on a project.
+
+
+HTML comments are enclosed within ‘<!--’ and ‘-->’ delimiters. Anything between theses
+Delimiters treated  as a comment and is not rendered by the browser.
+
+
+Comments are particularly useful when you want to:
+* Add notes or explanationS for yourself or other developers working on the code.
+* Temporarily remove or disable a section of code for testing or debugging purpose 
+* Document your code for future reference or maintenance 
+* Collaborate with others and provide context for specific parts of the document
+
+
+Example of how to use comments in an HTML document 
+
+
+
+
+LINK
+ https://drive.google.com/file/d/1qcEAStKRAtYM6KB9Flio8n0l_IxsVdWx/view?usp=sharing
+
+
+
+
+TASK 3:  Write an HTML program that includes a heading, a paragraph of a text, a
+Horizontal line, and a line break. Arrange this element to create a simple web page
+Layout?
+
+
+Answer: LINK https://drive.google.com/file/d/1qcEAStKRAtYM6KB9Flio8n0l_IxsVdWx/view?usp=sharing 
+
+
+
+
+TASK 4: write  a short note on tag and element with an example?
+
+
+Answer: TAG:
+
+
+In HTML, a”tag” is a fundamental building BLOCK used to define and structure the content of 
+A web page. TAgs are enclosed in angle brackets ‘<>’ and come in paris: an opening tag and a 
+Closing tag. Tags are used to mark up element on a webpage , providing instruction to web
+Browsers on how to display and structure content.
+
+
+For Example:
+<p> THIS IS Paragraph. </p>
+In this Example ‘<p> is the opening tag, and ‘</p> is the closing tag. Together, they define a 
+Paragraph element.
+
+
+ELEMENT:
+
+AN “ELEMENT” IN HTML is a combination of an opening tag, content and a closing tag.
+Elements represent different parts of webpage, such as headings, paragraphs, images,
+Links and more . elements are the actual content and structure that you see on a webpage
+When it’s rendered in a web browser.
+
+
+Here’s an example of HTML element:
+<p>’This is a paragraph element. </p>
+
+
+In this example : 
+* ‘<p> is the opening tag, which signifies the start of a paragraph element.
+* This is a paragraph element. ‘Is the context of the paragraph.
+* ‘</p>’ is the closing tag, which in a marks the end of the paragraph element.
+  
+
+
+When this HTML code is rendered in web browser, you will see the text “this is a paragraph element”
+Displayed as a paragraph as a paragraph on the web page. This is abasic example. But HTML element
+Can be much more complex and can include various attributes and nested element to define types of 
+And structures on a webpage 
+
+
+
+
+Task 5: What is DOCTYPE Declaration in HTML?
+ 
+Answer:  in HTML, a Document type Declaration (DTD), often referred to simply as a “DOCTYPE declaration” or “DOCTYPE,” is a statement at the beginning of an HTML document that specifies the version of HTML Being USed and Provides instruction to the ensure that the browser renders the page in
+The intended mode, following the correct HTML specification and rules.
+
+
+
+
+The general Structure of a a Doctype declaration looks like this:
+
+
+<!DOCTYPE html >
+In this example , ‘<!doctype html>’ is a DOCTYPE declaration for HTML 5, the latest version of html5 introduced a simplified and standardised DOCTYPE declaration that is used for all HTML5 document
